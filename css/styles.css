@@ -39,7 +39,12 @@ h3 {
     background-color: rgb(200, 219, 245);
 }
 
+.namejobtitle h1 {
+    margin-bottom: 0;
+}
+
 .namejobtitle p {
+    margin-top: 10px;
     margin-bottom: 0;
     font-size: 20px;
     font-weight: bold;
@@ -67,7 +72,7 @@ h3 {
 }
 
 .experience {
-    padding: 40px 50px 40px 40px;
+    padding: 30px 50px 40px 40px;
 }
 
 .workexperience, .education {
